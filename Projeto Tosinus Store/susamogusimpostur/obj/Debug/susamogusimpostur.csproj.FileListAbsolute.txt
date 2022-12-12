@@ -1,0 +1,139 @@
+C:\Users\Aluno\source\repos\susamogusimpostur\susamogusimpostur\bin\Debug\susamogusimpostur.exe.config
+C:\Users\Aluno\source\repos\susamogusimpostur\susamogusimpostur\bin\Debug\susamogusimpostur.exe
+C:\Users\Aluno\source\repos\susamogusimpostur\susamogusimpostur\bin\Debug\susamogusimpostur.pdb
+C:\Users\Aluno\source\repos\susamogusimpostur\susamogusimpostur\obj\Debug\susamogusimpostur.csprojAssemblyReference.cache
+C:\Users\Aluno\source\repos\susamogusimpostur\susamogusimpostur\obj\Debug\susamogusimpostur.Form1.resources
+C:\Users\Aluno\source\repos\susamogusimpostur\susamogusimpostur\obj\Debug\susamogusimpostur.Properties.Resources.resources
+C:\Users\Aluno\source\repos\susamogusimpostur\susamogusimpostur\obj\Debug\susamogusimpostur.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\susamogusimpostur\susamogusimpostur\obj\Debug\susamogusimpostur.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\susamogusimpostur\susamogusimpostur\obj\Debug\susamogusimpostur.exe
+C:\Users\Aluno\source\repos\susamogusimpostur\susamogusimpostur\obj\Debug\susamogusimpostur.pdb
+C:\Users\Aluno\source\repos\susamogusimpostur\susamogusimpostur\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Aluno\source\repos\susamogusimpostur\susamogusimpostur\bin\Debug\Google.Protobuf.dll
+C:\Users\Aluno\source\repos\susamogusimpostur\susamogusimpostur\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Aluno\source\repos\susamogusimpostur\susamogusimpostur\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Aluno\source\repos\susamogusimpostur\susamogusimpostur\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Aluno\source\repos\susamogusimpostur\susamogusimpostur\bin\Debug\MySql.Data.dll
+C:\Users\Aluno\source\repos\susamogusimpostur\susamogusimpostur\bin\Debug\System.Buffers.dll
+C:\Users\Aluno\source\repos\susamogusimpostur\susamogusimpostur\bin\Debug\System.Memory.dll
+C:\Users\Aluno\source\repos\susamogusimpostur\susamogusimpostur\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Aluno\source\repos\susamogusimpostur\susamogusimpostur\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Aluno\source\repos\susamogusimpostur\susamogusimpostur\bin\Debug\ZstdNet.dll
+C:\Users\Aluno\source\repos\susamogusimpostur\susamogusimpostur\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Aluno\source\repos\susamogusimpostur\susamogusimpostur\bin\Debug\Google.Protobuf.pdb
+C:\Users\Aluno\source\repos\susamogusimpostur\susamogusimpostur\bin\Debug\Google.Protobuf.xml
+C:\Users\Aluno\source\repos\susamogusimpostur\susamogusimpostur\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Aluno\source\repos\susamogusimpostur\susamogusimpostur\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Aluno\source\repos\susamogusimpostur\susamogusimpostur\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Aluno\source\repos\susamogusimpostur\susamogusimpostur\bin\Debug\MySql.Data.xml
+C:\Users\Aluno\source\repos\susamogusimpostur\susamogusimpostur\bin\Debug\System.Buffers.xml
+C:\Users\Aluno\source\repos\susamogusimpostur\susamogusimpostur\bin\Debug\System.Memory.xml
+C:\Users\Aluno\source\repos\susamogusimpostur\susamogusimpostur\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Aluno\source\repos\susamogusimpostur\susamogusimpostur\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Aluno\source\repos\susamogusimpostur\susamogusimpostur\obj\Debug\susamogusimpostur.csproj.CopyComplete
+C:\Users\Aluno\source\repos\susamogusimpostur\susamogusimpostur\obj\Debug\susamogusimpostur.form.resources
+C:\Users\Aluno\Downloads\susamogusimpostur\susamogusimpostur\bin\Debug\susamogusimpostur.exe.config
+C:\Users\Aluno\Downloads\susamogusimpostur\susamogusimpostur\bin\Debug\susamogusimpostur.exe
+C:\Users\Aluno\Downloads\susamogusimpostur\susamogusimpostur\bin\Debug\susamogusimpostur.pdb
+C:\Users\Aluno\Downloads\susamogusimpostur\susamogusimpostur\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Aluno\Downloads\susamogusimpostur\susamogusimpostur\bin\Debug\Google.Protobuf.dll
+C:\Users\Aluno\Downloads\susamogusimpostur\susamogusimpostur\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Aluno\Downloads\susamogusimpostur\susamogusimpostur\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Aluno\Downloads\susamogusimpostur\susamogusimpostur\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Aluno\Downloads\susamogusimpostur\susamogusimpostur\bin\Debug\MySql.Data.dll
+C:\Users\Aluno\Downloads\susamogusimpostur\susamogusimpostur\bin\Debug\System.Buffers.dll
+C:\Users\Aluno\Downloads\susamogusimpostur\susamogusimpostur\bin\Debug\System.Memory.dll
+C:\Users\Aluno\Downloads\susamogusimpostur\susamogusimpostur\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Aluno\Downloads\susamogusimpostur\susamogusimpostur\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Aluno\Downloads\susamogusimpostur\susamogusimpostur\bin\Debug\ZstdNet.dll
+C:\Users\Aluno\Downloads\susamogusimpostur\susamogusimpostur\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Aluno\Downloads\susamogusimpostur\susamogusimpostur\bin\Debug\Google.Protobuf.pdb
+C:\Users\Aluno\Downloads\susamogusimpostur\susamogusimpostur\bin\Debug\Google.Protobuf.xml
+C:\Users\Aluno\Downloads\susamogusimpostur\susamogusimpostur\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Aluno\Downloads\susamogusimpostur\susamogusimpostur\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Aluno\Downloads\susamogusimpostur\susamogusimpostur\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Aluno\Downloads\susamogusimpostur\susamogusimpostur\bin\Debug\MySql.Data.xml
+C:\Users\Aluno\Downloads\susamogusimpostur\susamogusimpostur\bin\Debug\System.Buffers.xml
+C:\Users\Aluno\Downloads\susamogusimpostur\susamogusimpostur\bin\Debug\System.Memory.xml
+C:\Users\Aluno\Downloads\susamogusimpostur\susamogusimpostur\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Aluno\Downloads\susamogusimpostur\susamogusimpostur\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Aluno\Downloads\susamogusimpostur\susamogusimpostur\obj\Debug\susamogusimpostur.csprojAssemblyReference.cache
+C:\Users\Aluno\Downloads\susamogusimpostur\susamogusimpostur\obj\Debug\susamogusimpostur.form.resources
+C:\Users\Aluno\Downloads\susamogusimpostur\susamogusimpostur\obj\Debug\susamogusimpostur.Properties.Resources.resources
+C:\Users\Aluno\Downloads\susamogusimpostur\susamogusimpostur\obj\Debug\susamogusimpostur.Form1.resources
+C:\Users\Aluno\Downloads\susamogusimpostur\susamogusimpostur\obj\Debug\susamogusimpostur.csproj.GenerateResource.cache
+C:\Users\Aluno\Downloads\susamogusimpostur\susamogusimpostur\obj\Debug\susamogusimpostur.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\susamogusimpostur\susamogusimpostur\obj\Debug\susamogusimpostur.csproj.CopyComplete
+C:\Users\Aluno\Downloads\susamogusimpostur\susamogusimpostur\obj\Debug\susamogusimpostur.exe
+C:\Users\Aluno\Downloads\susamogusimpostur\susamogusimpostur\obj\Debug\susamogusimpostur.pdb
+C:\Users\guifo\Downloads\susamogusimpostur\susamogusimpostur\bin\Debug\susamogusimpostur.exe.config
+C:\Users\guifo\Downloads\susamogusimpostur\susamogusimpostur\bin\Debug\susamogusimpostur.exe
+C:\Users\guifo\Downloads\susamogusimpostur\susamogusimpostur\bin\Debug\susamogusimpostur.pdb
+C:\Users\guifo\Downloads\susamogusimpostur\susamogusimpostur\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\guifo\Downloads\susamogusimpostur\susamogusimpostur\bin\Debug\Google.Protobuf.dll
+C:\Users\guifo\Downloads\susamogusimpostur\susamogusimpostur\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\guifo\Downloads\susamogusimpostur\susamogusimpostur\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\guifo\Downloads\susamogusimpostur\susamogusimpostur\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\guifo\Downloads\susamogusimpostur\susamogusimpostur\bin\Debug\MySql.Data.dll
+C:\Users\guifo\Downloads\susamogusimpostur\susamogusimpostur\bin\Debug\System.Buffers.dll
+C:\Users\guifo\Downloads\susamogusimpostur\susamogusimpostur\bin\Debug\System.Memory.dll
+C:\Users\guifo\Downloads\susamogusimpostur\susamogusimpostur\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\guifo\Downloads\susamogusimpostur\susamogusimpostur\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\guifo\Downloads\susamogusimpostur\susamogusimpostur\bin\Debug\ZstdNet.dll
+C:\Users\guifo\Downloads\susamogusimpostur\susamogusimpostur\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\guifo\Downloads\susamogusimpostur\susamogusimpostur\bin\Debug\Google.Protobuf.pdb
+C:\Users\guifo\Downloads\susamogusimpostur\susamogusimpostur\bin\Debug\Google.Protobuf.xml
+C:\Users\guifo\Downloads\susamogusimpostur\susamogusimpostur\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\guifo\Downloads\susamogusimpostur\susamogusimpostur\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\guifo\Downloads\susamogusimpostur\susamogusimpostur\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\guifo\Downloads\susamogusimpostur\susamogusimpostur\bin\Debug\MySql.Data.xml
+C:\Users\guifo\Downloads\susamogusimpostur\susamogusimpostur\bin\Debug\System.Buffers.xml
+C:\Users\guifo\Downloads\susamogusimpostur\susamogusimpostur\bin\Debug\System.Memory.xml
+C:\Users\guifo\Downloads\susamogusimpostur\susamogusimpostur\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\guifo\Downloads\susamogusimpostur\susamogusimpostur\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\guifo\Downloads\susamogusimpostur\susamogusimpostur\obj\Debug\susamogusimpostur.csproj.AssemblyReference.cache
+C:\Users\guifo\Downloads\susamogusimpostur\susamogusimpostur\obj\Debug\susamogusimpostur.csproj.SuggestedBindingRedirects.cache
+C:\Users\guifo\Downloads\susamogusimpostur\susamogusimpostur\obj\Debug\susamogusimpostur.form.resources
+C:\Users\guifo\Downloads\susamogusimpostur\susamogusimpostur\obj\Debug\susamogusimpostur.Form1.resources
+C:\Users\guifo\Downloads\susamogusimpostur\susamogusimpostur\obj\Debug\susamogusimpostur.Properties.Resources.resources
+C:\Users\guifo\Downloads\susamogusimpostur\susamogusimpostur\obj\Debug\susamogusimpostur.csproj.GenerateResource.cache
+C:\Users\guifo\Downloads\susamogusimpostur\susamogusimpostur\obj\Debug\susamogusimpostur.csproj.CoreCompileInputs.cache
+C:\Users\guifo\Downloads\susamogusimpostur\susamogusimpostur\obj\Debug\susamogusimpostur.csproj.CopyComplete
+C:\Users\guifo\Downloads\susamogusimpostur\susamogusimpostur\obj\Debug\susamogusimpostur.exe
+C:\Users\guifo\Downloads\susamogusimpostur\susamogusimpostur\obj\Debug\susamogusimpostur.pdb
+C:\Users\guifo\Downloads\susamogusimpostur\susamogusimpostur\obj\Debug\CheidAr.Form1.resources
+C:\Users\guifo\Downloads\GUILHERME HENRIQUE OLIVEIRA DA SILVA\susamogusimpostur\susamogusimpostur\obj\Debug\susamogusimpostur.csproj.AssemblyReference.cache
+C:\Users\guifo\Downloads\GUILHERME HENRIQUE OLIVEIRA DA SILVA\susamogusimpostur\susamogusimpostur\obj\Debug\susamogusimpostur.csproj.SuggestedBindingRedirects.cache
+C:\Users\guifo\Downloads\GUILHERME HENRIQUE OLIVEIRA DA SILVA\susamogusimpostur\susamogusimpostur\obj\Debug\CheidAr.Form1.resources
+C:\Users\guifo\Downloads\GUILHERME HENRIQUE OLIVEIRA DA SILVA\susamogusimpostur\susamogusimpostur\obj\Debug\susamogusimpostur.Properties.Resources.resources
+C:\Users\guifo\Downloads\GUILHERME HENRIQUE OLIVEIRA DA SILVA\susamogusimpostur\susamogusimpostur\obj\Debug\susamogusimpostur.csproj.GenerateResource.cache
+C:\Users\guifo\Downloads\GUILHERME HENRIQUE OLIVEIRA DA SILVA\susamogusimpostur\susamogusimpostur\obj\Debug\susamogusimpostur.csproj.CoreCompileInputs.cache
+C:\Users\guifo\Downloads\GUILHERME HENRIQUE OLIVEIRA DA SILVA\susamogusimpostur\susamogusimpostur\obj\Debug\susamogusimpostur.exe
+C:\Users\guifo\Downloads\GUILHERME HENRIQUE OLIVEIRA DA SILVA\susamogusimpostur\susamogusimpostur\obj\Debug\susamogusimpostur.pdb
+C:\Users\guifo\Downloads\GUILHERME HENRIQUE OLIVEIRA DA SILVA\susamogusimpostur\susamogusimpostur\bin\Debug\susamogusimpostur.exe.config
+C:\Users\guifo\Downloads\GUILHERME HENRIQUE OLIVEIRA DA SILVA\susamogusimpostur\susamogusimpostur\bin\Debug\susamogusimpostur.exe
+C:\Users\guifo\Downloads\GUILHERME HENRIQUE OLIVEIRA DA SILVA\susamogusimpostur\susamogusimpostur\bin\Debug\susamogusimpostur.pdb
+C:\Users\guifo\Downloads\GUILHERME HENRIQUE OLIVEIRA DA SILVA\susamogusimpostur\susamogusimpostur\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\guifo\Downloads\GUILHERME HENRIQUE OLIVEIRA DA SILVA\susamogusimpostur\susamogusimpostur\bin\Debug\Google.Protobuf.dll
+C:\Users\guifo\Downloads\GUILHERME HENRIQUE OLIVEIRA DA SILVA\susamogusimpostur\susamogusimpostur\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\guifo\Downloads\GUILHERME HENRIQUE OLIVEIRA DA SILVA\susamogusimpostur\susamogusimpostur\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\guifo\Downloads\GUILHERME HENRIQUE OLIVEIRA DA SILVA\susamogusimpostur\susamogusimpostur\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\guifo\Downloads\GUILHERME HENRIQUE OLIVEIRA DA SILVA\susamogusimpostur\susamogusimpostur\bin\Debug\MySql.Data.dll
+C:\Users\guifo\Downloads\GUILHERME HENRIQUE OLIVEIRA DA SILVA\susamogusimpostur\susamogusimpostur\bin\Debug\System.Buffers.dll
+C:\Users\guifo\Downloads\GUILHERME HENRIQUE OLIVEIRA DA SILVA\susamogusimpostur\susamogusimpostur\bin\Debug\System.Memory.dll
+C:\Users\guifo\Downloads\GUILHERME HENRIQUE OLIVEIRA DA SILVA\susamogusimpostur\susamogusimpostur\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\guifo\Downloads\GUILHERME HENRIQUE OLIVEIRA DA SILVA\susamogusimpostur\susamogusimpostur\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\guifo\Downloads\GUILHERME HENRIQUE OLIVEIRA DA SILVA\susamogusimpostur\susamogusimpostur\bin\Debug\ZstdNet.dll
+C:\Users\guifo\Downloads\GUILHERME HENRIQUE OLIVEIRA DA SILVA\susamogusimpostur\susamogusimpostur\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\guifo\Downloads\GUILHERME HENRIQUE OLIVEIRA DA SILVA\susamogusimpostur\susamogusimpostur\bin\Debug\Google.Protobuf.pdb
+C:\Users\guifo\Downloads\GUILHERME HENRIQUE OLIVEIRA DA SILVA\susamogusimpostur\susamogusimpostur\bin\Debug\Google.Protobuf.xml
+C:\Users\guifo\Downloads\GUILHERME HENRIQUE OLIVEIRA DA SILVA\susamogusimpostur\susamogusimpostur\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\guifo\Downloads\GUILHERME HENRIQUE OLIVEIRA DA SILVA\susamogusimpostur\susamogusimpostur\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\guifo\Downloads\GUILHERME HENRIQUE OLIVEIRA DA SILVA\susamogusimpostur\susamogusimpostur\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\guifo\Downloads\GUILHERME HENRIQUE OLIVEIRA DA SILVA\susamogusimpostur\susamogusimpostur\bin\Debug\MySql.Data.xml
+C:\Users\guifo\Downloads\GUILHERME HENRIQUE OLIVEIRA DA SILVA\susamogusimpostur\susamogusimpostur\bin\Debug\System.Buffers.xml
+C:\Users\guifo\Downloads\GUILHERME HENRIQUE OLIVEIRA DA SILVA\susamogusimpostur\susamogusimpostur\bin\Debug\System.Memory.xml
+C:\Users\guifo\Downloads\GUILHERME HENRIQUE OLIVEIRA DA SILVA\susamogusimpostur\susamogusimpostur\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\guifo\Downloads\GUILHERME HENRIQUE OLIVEIRA DA SILVA\susamogusimpostur\susamogusimpostur\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\guifo\Downloads\GUILHERME HENRIQUE OLIVEIRA DA SILVA\susamogusimpostur\susamogusimpostur\obj\Debug\susamogusimpostur.csproj.CopyComplete
+C:\Users\guifo\Downloads\GUILHERME HENRIQUE OLIVEIRA DA SILVA\susamogusimpostur\susamogusimpostur\obj\Debug\susamogusimpostur.Form2.resources

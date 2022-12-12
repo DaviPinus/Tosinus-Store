@@ -1,0 +1,70 @@
+E:\Downloads\cheidar\CheidArComErros\GUILHERME HENRIQUE OLIVEIRA DA SILVA\susamogusimpostur\susamogusimpostur\bin\Debug\susamogusimpostur.exe.config
+E:\Downloads\cheidar\CheidArComErros\GUILHERME HENRIQUE OLIVEIRA DA SILVA\susamogusimpostur\susamogusimpostur\bin\Debug\susamogusimpostur.exe
+E:\Downloads\cheidar\CheidArComErros\GUILHERME HENRIQUE OLIVEIRA DA SILVA\susamogusimpostur\susamogusimpostur\bin\Debug\susamogusimpostur.pdb
+E:\Downloads\cheidar\CheidArComErros\GUILHERME HENRIQUE OLIVEIRA DA SILVA\susamogusimpostur\susamogusimpostur\bin\Debug\BouncyCastle.Crypto.dll
+E:\Downloads\cheidar\CheidArComErros\GUILHERME HENRIQUE OLIVEIRA DA SILVA\susamogusimpostur\susamogusimpostur\bin\Debug\Google.Protobuf.dll
+E:\Downloads\cheidar\CheidArComErros\GUILHERME HENRIQUE OLIVEIRA DA SILVA\susamogusimpostur\susamogusimpostur\bin\Debug\K4os.Compression.LZ4.dll
+E:\Downloads\cheidar\CheidArComErros\GUILHERME HENRIQUE OLIVEIRA DA SILVA\susamogusimpostur\susamogusimpostur\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Downloads\cheidar\CheidArComErros\GUILHERME HENRIQUE OLIVEIRA DA SILVA\susamogusimpostur\susamogusimpostur\bin\Debug\K4os.Hash.xxHash.dll
+E:\Downloads\cheidar\CheidArComErros\GUILHERME HENRIQUE OLIVEIRA DA SILVA\susamogusimpostur\susamogusimpostur\bin\Debug\MySql.Data.dll
+E:\Downloads\cheidar\CheidArComErros\GUILHERME HENRIQUE OLIVEIRA DA SILVA\susamogusimpostur\susamogusimpostur\bin\Debug\System.Buffers.dll
+E:\Downloads\cheidar\CheidArComErros\GUILHERME HENRIQUE OLIVEIRA DA SILVA\susamogusimpostur\susamogusimpostur\bin\Debug\System.Memory.dll
+E:\Downloads\cheidar\CheidArComErros\GUILHERME HENRIQUE OLIVEIRA DA SILVA\susamogusimpostur\susamogusimpostur\bin\Debug\System.Numerics.Vectors.dll
+E:\Downloads\cheidar\CheidArComErros\GUILHERME HENRIQUE OLIVEIRA DA SILVA\susamogusimpostur\susamogusimpostur\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Downloads\cheidar\CheidArComErros\GUILHERME HENRIQUE OLIVEIRA DA SILVA\susamogusimpostur\susamogusimpostur\bin\Debug\ZstdNet.dll
+E:\Downloads\cheidar\CheidArComErros\GUILHERME HENRIQUE OLIVEIRA DA SILVA\susamogusimpostur\susamogusimpostur\bin\Debug\BouncyCastle.Crypto.xml
+E:\Downloads\cheidar\CheidArComErros\GUILHERME HENRIQUE OLIVEIRA DA SILVA\susamogusimpostur\susamogusimpostur\bin\Debug\Google.Protobuf.pdb
+E:\Downloads\cheidar\CheidArComErros\GUILHERME HENRIQUE OLIVEIRA DA SILVA\susamogusimpostur\susamogusimpostur\bin\Debug\Google.Protobuf.xml
+E:\Downloads\cheidar\CheidArComErros\GUILHERME HENRIQUE OLIVEIRA DA SILVA\susamogusimpostur\susamogusimpostur\bin\Debug\K4os.Compression.LZ4.xml
+E:\Downloads\cheidar\CheidArComErros\GUILHERME HENRIQUE OLIVEIRA DA SILVA\susamogusimpostur\susamogusimpostur\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Downloads\cheidar\CheidArComErros\GUILHERME HENRIQUE OLIVEIRA DA SILVA\susamogusimpostur\susamogusimpostur\bin\Debug\K4os.Hash.xxHash.xml
+E:\Downloads\cheidar\CheidArComErros\GUILHERME HENRIQUE OLIVEIRA DA SILVA\susamogusimpostur\susamogusimpostur\bin\Debug\MySql.Data.xml
+E:\Downloads\cheidar\CheidArComErros\GUILHERME HENRIQUE OLIVEIRA DA SILVA\susamogusimpostur\susamogusimpostur\bin\Debug\System.Buffers.xml
+E:\Downloads\cheidar\CheidArComErros\GUILHERME HENRIQUE OLIVEIRA DA SILVA\susamogusimpostur\susamogusimpostur\bin\Debug\System.Memory.xml
+E:\Downloads\cheidar\CheidArComErros\GUILHERME HENRIQUE OLIVEIRA DA SILVA\susamogusimpostur\susamogusimpostur\bin\Debug\System.Numerics.Vectors.xml
+E:\Downloads\cheidar\CheidArComErros\GUILHERME HENRIQUE OLIVEIRA DA SILVA\susamogusimpostur\susamogusimpostur\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Downloads\cheidar\CheidArComErros\GUILHERME HENRIQUE OLIVEIRA DA SILVA\susamogusimpostur\susamogusimpostur\obj\Debug\Tosinus.csproj.AssemblyReference.cache
+E:\Downloads\cheidar\CheidArComErros\GUILHERME HENRIQUE OLIVEIRA DA SILVA\susamogusimpostur\susamogusimpostur\obj\Debug\Tosinus.csproj.SuggestedBindingRedirects.cache
+E:\Downloads\cheidar\CheidArComErros\GUILHERME HENRIQUE OLIVEIRA DA SILVA\susamogusimpostur\susamogusimpostur\obj\Debug\CheidAr.FormSegundo.resources
+E:\Downloads\cheidar\CheidArComErros\GUILHERME HENRIQUE OLIVEIRA DA SILVA\susamogusimpostur\susamogusimpostur\obj\Debug\CheidAr.Form1.resources
+E:\Downloads\cheidar\CheidArComErros\GUILHERME HENRIQUE OLIVEIRA DA SILVA\susamogusimpostur\susamogusimpostur\obj\Debug\CheidAr.Properties.Resources.resources
+E:\Downloads\cheidar\CheidArComErros\GUILHERME HENRIQUE OLIVEIRA DA SILVA\susamogusimpostur\susamogusimpostur\obj\Debug\Tosinus.csproj.GenerateResource.cache
+E:\Downloads\cheidar\CheidArComErros\GUILHERME HENRIQUE OLIVEIRA DA SILVA\susamogusimpostur\susamogusimpostur\obj\Debug\Tosinus.csproj.CoreCompileInputs.cache
+E:\Downloads\cheidar\CheidArComErros\GUILHERME HENRIQUE OLIVEIRA DA SILVA\susamogusimpostur\susamogusimpostur\obj\Debug\Tosinus.csproj.CopyComplete
+E:\Downloads\cheidar\CheidArComErros\GUILHERME HENRIQUE OLIVEIRA DA SILVA\susamogusimpostur\susamogusimpostur\obj\Debug\susamogusimpostur.exe
+E:\Downloads\cheidar\CheidArComErros\GUILHERME HENRIQUE OLIVEIRA DA SILVA\susamogusimpostur\susamogusimpostur\obj\Debug\susamogusimpostur.pdb
+E:\Área de Trabalho\Saves\SENAI\UC12 - Desenvolvimento de Sistemas\Projeto Tosinus Store\susamogusimpostur\obj\Debug\Tosinus.csproj.AssemblyReference.cache
+E:\Área de Trabalho\Saves\SENAI\UC12 - Desenvolvimento de Sistemas\Projeto Tosinus Store\susamogusimpostur\obj\Debug\Tosinus.csproj.SuggestedBindingRedirects.cache
+E:\Área de Trabalho\Saves\SENAI\UC12 - Desenvolvimento de Sistemas\Projeto Tosinus Store\susamogusimpostur\obj\Debug\CheidAr.FormSegundo.resources
+E:\Área de Trabalho\Saves\SENAI\UC12 - Desenvolvimento de Sistemas\Projeto Tosinus Store\susamogusimpostur\obj\Debug\CheidAr.Form1.resources
+E:\Área de Trabalho\Saves\SENAI\UC12 - Desenvolvimento de Sistemas\Projeto Tosinus Store\susamogusimpostur\obj\Debug\CheidAr.Properties.Resources.resources
+E:\Área de Trabalho\Saves\SENAI\UC12 - Desenvolvimento de Sistemas\Projeto Tosinus Store\susamogusimpostur\obj\Debug\Tosinus.csproj.GenerateResource.cache
+E:\Área de Trabalho\Saves\SENAI\UC12 - Desenvolvimento de Sistemas\Projeto Tosinus Store\susamogusimpostur\obj\Debug\Tosinus.csproj.CoreCompileInputs.cache
+E:\Área de Trabalho\Saves\SENAI\UC12 - Desenvolvimento de Sistemas\Projeto Tosinus Store\susamogusimpostur\obj\Debug\susamogusimpostur.exe
+E:\Área de Trabalho\Saves\SENAI\UC12 - Desenvolvimento de Sistemas\Projeto Tosinus Store\susamogusimpostur\obj\Debug\susamogusimpostur.pdb
+E:\Área de Trabalho\Saves\SENAI\UC12 - Desenvolvimento de Sistemas\Projeto Tosinus Store\susamogusimpostur\bin\Debug\susamogusimpostur.exe.config
+E:\Área de Trabalho\Saves\SENAI\UC12 - Desenvolvimento de Sistemas\Projeto Tosinus Store\susamogusimpostur\bin\Debug\susamogusimpostur.exe
+E:\Área de Trabalho\Saves\SENAI\UC12 - Desenvolvimento de Sistemas\Projeto Tosinus Store\susamogusimpostur\bin\Debug\susamogusimpostur.pdb
+E:\Área de Trabalho\Saves\SENAI\UC12 - Desenvolvimento de Sistemas\Projeto Tosinus Store\susamogusimpostur\bin\Debug\BouncyCastle.Crypto.dll
+E:\Área de Trabalho\Saves\SENAI\UC12 - Desenvolvimento de Sistemas\Projeto Tosinus Store\susamogusimpostur\bin\Debug\Google.Protobuf.dll
+E:\Área de Trabalho\Saves\SENAI\UC12 - Desenvolvimento de Sistemas\Projeto Tosinus Store\susamogusimpostur\bin\Debug\K4os.Compression.LZ4.dll
+E:\Área de Trabalho\Saves\SENAI\UC12 - Desenvolvimento de Sistemas\Projeto Tosinus Store\susamogusimpostur\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Área de Trabalho\Saves\SENAI\UC12 - Desenvolvimento de Sistemas\Projeto Tosinus Store\susamogusimpostur\bin\Debug\K4os.Hash.xxHash.dll
+E:\Área de Trabalho\Saves\SENAI\UC12 - Desenvolvimento de Sistemas\Projeto Tosinus Store\susamogusimpostur\bin\Debug\MySql.Data.dll
+E:\Área de Trabalho\Saves\SENAI\UC12 - Desenvolvimento de Sistemas\Projeto Tosinus Store\susamogusimpostur\bin\Debug\System.Buffers.dll
+E:\Área de Trabalho\Saves\SENAI\UC12 - Desenvolvimento de Sistemas\Projeto Tosinus Store\susamogusimpostur\bin\Debug\System.Memory.dll
+E:\Área de Trabalho\Saves\SENAI\UC12 - Desenvolvimento de Sistemas\Projeto Tosinus Store\susamogusimpostur\bin\Debug\System.Numerics.Vectors.dll
+E:\Área de Trabalho\Saves\SENAI\UC12 - Desenvolvimento de Sistemas\Projeto Tosinus Store\susamogusimpostur\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Área de Trabalho\Saves\SENAI\UC12 - Desenvolvimento de Sistemas\Projeto Tosinus Store\susamogusimpostur\bin\Debug\ZstdNet.dll
+E:\Área de Trabalho\Saves\SENAI\UC12 - Desenvolvimento de Sistemas\Projeto Tosinus Store\susamogusimpostur\bin\Debug\BouncyCastle.Crypto.xml
+E:\Área de Trabalho\Saves\SENAI\UC12 - Desenvolvimento de Sistemas\Projeto Tosinus Store\susamogusimpostur\bin\Debug\Google.Protobuf.pdb
+E:\Área de Trabalho\Saves\SENAI\UC12 - Desenvolvimento de Sistemas\Projeto Tosinus Store\susamogusimpostur\bin\Debug\Google.Protobuf.xml
+E:\Área de Trabalho\Saves\SENAI\UC12 - Desenvolvimento de Sistemas\Projeto Tosinus Store\susamogusimpostur\bin\Debug\K4os.Compression.LZ4.xml
+E:\Área de Trabalho\Saves\SENAI\UC12 - Desenvolvimento de Sistemas\Projeto Tosinus Store\susamogusimpostur\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Área de Trabalho\Saves\SENAI\UC12 - Desenvolvimento de Sistemas\Projeto Tosinus Store\susamogusimpostur\bin\Debug\K4os.Hash.xxHash.xml
+E:\Área de Trabalho\Saves\SENAI\UC12 - Desenvolvimento de Sistemas\Projeto Tosinus Store\susamogusimpostur\bin\Debug\MySql.Data.xml
+E:\Área de Trabalho\Saves\SENAI\UC12 - Desenvolvimento de Sistemas\Projeto Tosinus Store\susamogusimpostur\bin\Debug\System.Buffers.xml
+E:\Área de Trabalho\Saves\SENAI\UC12 - Desenvolvimento de Sistemas\Projeto Tosinus Store\susamogusimpostur\bin\Debug\System.Memory.xml
+E:\Área de Trabalho\Saves\SENAI\UC12 - Desenvolvimento de Sistemas\Projeto Tosinus Store\susamogusimpostur\bin\Debug\System.Numerics.Vectors.xml
+E:\Área de Trabalho\Saves\SENAI\UC12 - Desenvolvimento de Sistemas\Projeto Tosinus Store\susamogusimpostur\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Área de Trabalho\Saves\SENAI\UC12 - Desenvolvimento de Sistemas\Projeto Tosinus Store\susamogusimpostur\obj\Debug\Tosinus.csproj.CopyComplete
